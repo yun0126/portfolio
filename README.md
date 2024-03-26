@@ -41,4 +41,4 @@
 
 > 기술스택 : Java 11/ Gradle / Spring Boot / MySQL / MyBartis / JavaScript / Ajax / AWS
 
-> <a href="https://github.com/yun0126/second_project">프로젝트 상세설명 </a> 참고
+> <a href="https://github.com/yun0126/second-project">프로젝트 상세설명 </a> 참고
