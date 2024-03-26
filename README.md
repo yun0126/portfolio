@@ -29,7 +29,7 @@
 
 > 개발기간 : 2023.10.10 - 2023.11.30
 
-> 기술스택 : Java 11/ Gradle / Spring Boot / MySQL / MyBartis / Jsp / Ajax  
+> 기술스택 : Java 17/ Gradle / Spring Boot / MySQL / MyBartis / JavaScript / Ajax  
 
 > <a href="https://github.com/yun0126/first-project">프로젝트 상세설명 </a> 참고
 
@@ -39,6 +39,6 @@
 
 > 개발기간 : 2023.12.4 - 2024.2.22
 
-> 기술스택 : Java 11/ Gradle / Spring Boot / MySQL / MyBartis / JavaScript / Ajax / AWS
+> 기술스택 : Java 17/ Gradle / Spring Boot / MySQL / MyBartis / JavaScript / Ajax / nginx / AWS
 
 > <a href="https://github.com/yun0126/second-project">프로젝트 상세설명 </a> 참고
